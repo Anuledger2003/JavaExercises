@@ -27,24 +27,7 @@ public class CountOddEven {
 //		}
 		
 		
-/*
- int number = 123456;
-        int evenCount = 0;
-        int oddCount = 0;
 
-        while (number != 0) {
-            int digit = number & 1;
-            if (digit == 0) {
-                evenCount++;
-            } else {
-                oddCount++;
-            }
-            number /= 10;
-        }
-
-        System.out.println("Even digits: " + evenCount);
-        System.out.println("Odd digits: " + oddCount);	
- */
 //		while( n > 0) {
 //			int d = n&1;
 //			if(d == 0) {
